@@ -1,6 +1,6 @@
 # RTSK: React - TailwindCSS Starter Kit
 
-![rtsk]()
+![rtsk](./src/assets/rtsk.webp)
 
 
 This template offers a streamlined setup for integrating React with Vite and TailwindCSS, providing a clean and minimalistic configuration without any unnecessary extras.
